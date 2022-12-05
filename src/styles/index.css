@@ -1,22 +1,18 @@
-
-.nav-link {
-    color: rgb(196, 196, 196);
-    display: inline;
-    padding: 5px;
-    
+.navbar-brand {
+    color:white;
+    margin-left: 80px;
 }
-.container-fluid {
-    padding-left: 50px;
-    padding-right: 50px;   
-    margin-left: 100px;
+.nav-link {
+    color: white;
 }
 .links {
-    padding-right: 100px;
+    margin-left: 80%;
 }
 .text {
     padding: 20px;
     padding-left: 10%;
     padding-right: 20%;
+    margin-top: 40px;
 }
 .row {
     padding-left: 15%;
@@ -35,7 +31,7 @@
     margin-bottom: 30px;
 }
 .footer {
-    background: black;
+    background: rgb(22, 22, 22);
     height: 100px;
 }
 .website {
